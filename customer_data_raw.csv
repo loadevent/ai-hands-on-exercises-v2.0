@@ -2,7 +2,7 @@ customer_id,gender,monthly_bill,support_calls,internet_usage,late_payments,contr
 1001,Male,45,2,120,0,Monthly,0
 1002,Female,80,8,75,4,Monthly,1
 1003,Female,,5,90,2,Monthly,1
-1004,Male,60,3,110,1,Yearly,0
+1004,Male,60,3,,1,Yearly,0
 1005,Male,55,,105,1,Yearly,0
 1006,Female,95,10,60,5,Monthly,1
 1007,Female,40,1,140,0,Yearly,0
@@ -14,7 +14,7 @@ customer_id,gender,monthly_bill,support_calls,internet_usage,late_payments,contr
 1012,Male,45,9,50,4,Monthly,1
 1012,Male,45,9,50,4,Monthly,1
 1013,Male,40,3,,1,Yearly,0
-1014,Female,100,11,50,6,Monthly,1
+1014,Female,100,11,50,,Monthly,1
 1015,Female,55,3,130,1,Monthly,0
 1016,Male,75,8,60,4,Monthly,1
 1017,Female,,5,90,2,Monthly,1
